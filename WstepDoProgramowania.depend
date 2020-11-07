@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1604765604 source:c:\users\radek\desktop\wstepdoprogramowania\src\agecalculator.cpp
+	"AgeCalculator.h"
+
+1604765604 c:\users\radek\desktop\wstepdoprogramowania\include\agecalculator.h
+
+1604765883 source:c:\users\radek\desktop\wstepdoprogramowania\src\exponentiation.cpp
+	"Exponentiation.h"
+
+1604765883 c:\users\radek\desktop\wstepdoprogramowania\include\exponentiation.h
+
+1604765559 source:c:\users\radek\desktop\wstepdoprogramowania\src\nameandadress.cpp
+	"NameAndAdress.h"
+
+1604765558 c:\users\radek\desktop\wstepdoprogramowania\include\nameandadress.h
+
+1604765746 source:c:\users\radek\desktop\wstepdoprogramowania\src\showtext.cpp
+	"ShowText.h"
+
+1604765746 c:\users\radek\desktop\wstepdoprogramowania\include\showtext.h
+
+1604765924 source:c:\users\radek\desktop\wstepdoprogramowania\src\smile.cpp
+	"Smile.h"
+
+1604765934 c:\users\radek\desktop\wstepdoprogramowania\include\smile.h
+
+1604765496 source:c:\users\radek\desktop\wstepdoprogramowania\src\nameandsurname.cpp
+	"NameAndSurname.h"
+
+1604777694 c:\users\radek\desktop\wstepdoprogramowania\include\nameandsurname.h
+
+1604784487 source:c:\users\radek\desktop\wstepdoprogramowania\main.c
+	<stdio.h>
+	<stdlib.h>
+
