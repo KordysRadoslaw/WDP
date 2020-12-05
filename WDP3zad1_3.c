@@ -14,7 +14,7 @@ int main()
 void zadanie1(){
     printf("Zadanie nr 1\n");
     int z = 2147483647;
-    printf("Obecna zmienna 'z' to: %d\ oraz jest typu int\n", z);
+    printf("Obecna zmienna 'z' to: %d\n oraz jest typu int\n", z);
     printf("Po dodaniu do niej liczb: 10,20 oraz 30 otrzymujemy odpowiednio %d %d %d\nco swiadczy o przepelnieniu typu zmiennej\n\n", z+10, z+20, z+30);
 
     double x = 1.7e308;
