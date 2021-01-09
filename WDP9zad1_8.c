@@ -82,7 +82,7 @@ double min(double x, double y){
     return tmp;
 }
 void rzad_zn(char ch, int i, int j){
-    for(int x = 0;x < i;x++ ){
+    for(int x = 1;x < i;x++ ){
         printf(" X ");
     }
     for(int y = i; y <= j; y++)
