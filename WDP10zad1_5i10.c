@@ -137,7 +137,7 @@ int functionForExample3(int tab[], int size){
     int x = tab[i];
 
     for(int i = 0; i < size; i++){
-        if(x < tab[i]){
+        if(x <= tab[i]){
             x = tab[i];
         }else{
             continue;
@@ -152,7 +152,7 @@ int functionForExample4(int tab[], int size){
     int x = tab[i];
 
     for(int i = 0; i < size; i++){
-        if(x < tab[i]){
+        if(x <= tab[i]){
             x = tab[i];
             y = i;
         }else{
@@ -169,14 +169,14 @@ int functionForExample5(int tab[], int size){
     int x = tab[i];
 
     for(i = 0; i < size; i++){
-        if(x < tab[i]){
+        if(x <= tab[i]){
             x = tab[i];
         }else{
             continue;
         }
     }
     for(i = 0; i < size; i++){
-        if(tab[i < y]){
+        if(tab[i] <= y){
             y = tab[i];
         }
     }
